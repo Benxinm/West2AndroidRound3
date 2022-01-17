@@ -1,0 +1,5 @@
+说明：
+
+动态信息显示没有采用ScaleType因为觉得效果不好，所以采用了adjustViewBounds
+
+取关向上个activity传递取关的up的值不知道怎么用intent操作，所以新建了一个类用静态变量实现传参
